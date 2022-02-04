@@ -1,0 +1,46 @@
+@font-face {
+    font-family:IRANSans ;
+    src: url('IRANSans(FaNum)_Medium (1).ttf');
+}
+body{
+    background-color: rgb(230, 230, 230);
+}
+#logo{
+    margin-right: 10px;
+}
+#search{
+    background-color: #F0F0F1;
+    width: 500px;
+    border: none;
+}
+#headers{
+    font-family: IRANSans;
+}
+#shopping_icon{
+    position: relative;
+    margin-right: 20px;
+    cursor: pointer;
+}
+.carousel-inner{
+    border-radius: 15px;
+}
+.carousel-indicators button{
+    width: 10px !important;
+    height: 10px !important;
+    border-radius: 100%;
+}
+#leftside{
+    border-radius: 30px;
+}
+#page_center{
+    border-radius: 15px;
+}
+#tv{
+    background-color: white;
+}
+#btn_return{
+border-style: solid;
+border-radius: 10px;
+margin-left: 35px;
+font-weight: bold;
+}
